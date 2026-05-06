@@ -259,16 +259,6 @@ Welcome to My Web Server
 
 ---
 
-## Website Screenshot
-
-*Add your browser screenshot here*
-
-```markdown
-![Website Output](images/web-output.png)
-```
-
----
-
 # Step 10: Verify Auto Start on Reboot
 
 ### Apache
@@ -386,5 +376,5 @@ EC2-Web-Server/
 # Author
 
 **Amtul Saboor**
-DevOps Engineer | Cloud Enthusiast
+DevOps & Cloud Engineer
 
